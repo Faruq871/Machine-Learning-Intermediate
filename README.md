@@ -36,7 +36,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 1. Clone this repository or download the notebook file.
 2. Open the notebook using Jupyter Notebook or Jupyter Lab:
    ```bash
-   jupyter notebook <notebook_name>.ipynb
+   Intermediate Machine Learning.ipynb
    ```
 3. Run the cells sequentially to observe data processing, model training, theoretical explanations, and performance visualizations.
 
@@ -44,5 +44,3 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 - **Regression:** Tree-based ensembles (e.g., Random Forest, ExtraTrees) and Gradient Boosting generally outperformed linear parametric models on the California Housing dataset by capturing complex non-linear interactions.
 - **Classification:** The Iris dataset achieved near-perfect accuracy across most models due to its simplicity and linear separability.
 - **Multiclass (MNIST):** SVM with an RBF kernel and Random Forest achieved the highest accuracies on the high-dimensional MNIST subset, demonstrating their robust capability in handling complex image pixel data, while linear models and KNN fell behind due to the curse of dimensionality.
-README.md
-Displaying README.md.# Machine-Learning-Intermediate
